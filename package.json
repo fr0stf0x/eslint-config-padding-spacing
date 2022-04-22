@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-padding-spacing",
+  "version": "1.0.0",
+  "description": "A pack of rules including padding and spacing best practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/fr0stf0x/eslint-config-padding-spacing"
+  },
+  "keywords": [
+    "eslint",
+    "padding",
+    "spacing",
+    "eslint-config"
+  ],
+  "author": "fr0stf0x",
+  "license": "MIT"
+}
