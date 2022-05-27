@@ -1,6 +1,7 @@
 {
+  "author": "fr0stf0x <tang.xuanthao1996@gmail.com> (https://fr0stf0x.vercel.app)",
   "name": "eslint-config-padding-spacing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A pack of rules including padding and spacing best practices",
   "main": "index.js",
   "scripts": {
@@ -8,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/fr0stf0x/eslint-config-padding-spacing"
+    "url": "https://github.com/fr0stf0x/eslint-config-padding-spacing"
   },
+  "homepage": "https://github.com/fr0stf0x/eslint-config-padding-spacing",
   "keywords": [
     "eslint",
     "padding",
     "spacing",
     "eslint-config"
   ],
-  "author": "fr0stf0x",
   "license": "MIT"
 }
